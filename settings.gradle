@@ -1,0 +1,2 @@
+include ':app', ':knifelibrary'
+rootProject.name='ButterKnife_Sample'
